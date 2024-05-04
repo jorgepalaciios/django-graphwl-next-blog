@@ -1,2 +1,1 @@
-# gymhub-admin
-an admin app for gyms in venezuela
+#Django blog using graphql and next dockerized
